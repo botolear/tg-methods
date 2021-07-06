@@ -1,9 +1,24 @@
 {
     "name": "@botol/tg-methods",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "build/index.js",
     "license": "MIT",
     "private": false,
+    "author": {
+        "name": "le-ar",
+        "url": "https://github.com/le-ar/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/botolear/tg-methods"
+    },
+    "keywords": [
+        "dipo",
+        "composer",
+        "telegram",
+        "tg",
+        "bot"
+    ],
     "scripts": {
         "prepublish": "tsc"
     },
